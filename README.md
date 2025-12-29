@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![YOLOv11](https://img.shields.io/badge/YOLO-v11-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 **An intelligent AI system that plays the card game "Judgement" against human opponents in real-time using Computer Vision and Large Language Models.**
@@ -210,10 +209,6 @@ card-ai-player/
 2. Sharma, N., et al. (2021). Machine learning and deep learning applications—A vision. *Global Transitions Proceedings*
 3. Gallotta, R., et al. (2024). Large Language Models and Games: A Survey and Roadmap
 4. Hu, Z., et al. (2023). Deep learning applications in games: A survey from a data perspective. *Applied Intelligence*
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 

@@ -193,16 +193,6 @@ card-ai-player/
 2. **Computational Requirements**: Real-time LLM inference requires significant resources
 3. **Game Specificity**: Currently optimized specifically for Judgement rules
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| **Bhavya Shah** | Computer Vision & Model Training |
-| **Roshita Chandnani** | LLM Integration & Strategy |
-| **Sakshi Lathi** | System Architecture & Integration |
-
-*Arizona State University - STP 598: Machine Learning and Deep Learning*
-
 ## 📚 References
 
 1. Zha, D., et al. (2021). DouZero: Mastering DouDizhu with self-play deep reinforcement learning. *ICML 2021*

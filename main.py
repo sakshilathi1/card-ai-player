@@ -66,7 +66,7 @@ def decide_round_winner(played_cards: dict, trump_suite: str):
     return index, winner
 
 if __name__ == '__main__':
-    WEIGHT_PATH = r'weights\best.pt'
+    WEIGHT_PATH = 'weights/best.pt'
     CAMERA_ID = 0
     IMG_H, IMG_W = 640, 640
     GAMES = 1

@@ -26,3 +26,6 @@ pyyaml>=6.0
 # Optional: GPU support
 # nvidia-cuda-toolkit
 # nvidia-cudnn
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10

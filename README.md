@@ -193,29 +193,12 @@ card-ai-player/
 2. **Computational Requirements**: Real-time LLM inference requires significant resources
 3. **Game Specificity**: Currently optimized specifically for Judgement rules
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| **Bhavya Shah** | Computer Vision & Model Training |
-| **Roshita Chandnani** | LLM Integration & Strategy |
-| **Sakshi Lathi** | System Architecture & Integration |
-
-*Arizona State University - STP 598: Machine Learning and Deep Learning*
-
 ## 📚 References
 
 1. Zha, D., et al. (2021). DouZero: Mastering DouDizhu with self-play deep reinforcement learning. *ICML 2021*
 2. Sharma, N., et al. (2021). Machine learning and deep learning applications—A vision. *Global Transitions Proceedings*
 3. Gallotta, R., et al. (2024). Large Language Models and Games: A Survey and Roadmap
 4. Hu, Z., et al. (2023). Deep learning applications in games: A survey from a data perspective. *Applied Intelligence*
-
-## 🙏 Acknowledgments
-
-- Ultralytics for the YOLOv11 framework
-- OpenAI for LLM capabilities
-- The playing cards dataset community
-- Arizona State University for academic support
 
 ---
 

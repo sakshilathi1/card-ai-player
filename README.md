@@ -200,12 +200,6 @@ card-ai-player/
 3. Gallotta, R., et al. (2024). Large Language Models and Games: A Survey and Roadmap
 4. Hu, Z., et al. (2023). Deep learning applications in games: A survey from a data perspective. *Applied Intelligence*
 
-## 🙏 Acknowledgments
-
-- Ultralytics for the YOLOv11 framework
-- OpenAI for LLM capabilities
-- The playing cards dataset community
-- Arizona State University for academic support
 
 ---
 
